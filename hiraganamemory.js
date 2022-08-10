@@ -218,3 +218,17 @@ const pairsOfCards = [
     },
   ],
 ];
+
+const vowels = pairsOfCards[0];
+const k = pairsOfCards[1];
+const s = pairsOfCards[2];
+const t = pairsOfCards[3];
+const n = pairsOfCards[4];
+const h = pairsOfCards[5];
+const m = pairsOfCards[6];
+const r = pairsOfCards[7];
+const y = pairsOfCards[8];
+const w = pairsOfCards[9];
+const n = pairsOfCards[10];
+
+const table = document.querySelector("#board");
